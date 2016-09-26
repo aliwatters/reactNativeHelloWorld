@@ -1,0 +1,3 @@
+rootProject.name = 'reactHelloWorld'
+
+include ':app'
