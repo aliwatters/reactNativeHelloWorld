@@ -68,3 +68,11 @@ Note: for performance also install `watchman` https://facebook.github.io/watchma
 (note only master branch at current time)
 
 and `gradle deamon` https://docs.gradle.org/2.9/userguide/gradle_daemon.html
+
+
+
+## Notes on work-flow.
+
+Start the emulator without the studio! - `~/Android/Sdk/tools/emulator @Nexus_5_API_24`
+
+Then run in `react-native start` and `react-native run-android`
